@@ -1,3 +1,4 @@
+// src/App.tsx
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -6,11 +7,12 @@ import Curriculum from "./pages/Curriculum";
 import Forum from "./pages/Forum";
 import News from "./pages/News";
 import Learn from "./pages/Learn";
+import Lesson from "./pages/Lesson";
 
 function NotFound() {
   return (
     <div className="container-lg py-10">
-      <h1 className="text-2xl font-bold">404 — Page not found</h1>
+      <h1 className="text-2xl font-bold">404 - Page not found</h1>
       <p className="mt-4 text-gray-700">Try the Curriculum or Home.</p>
     </div>
   );
@@ -18,7 +20,7 @@ function NotFound() {
 
 export default function App() {
   return (
-    <div className="min-h-screen flex flex-col bg-white">
+    <div className="min-h-screen flex flex-col bg-white dark:bg-zinc-950">
       <Navbar />
       <main className="flex-1">
         <Routes>
@@ -27,6 +29,7 @@ export default function App() {
           <Route path="/forum" element={<Forum />} />
           <Route path="/news" element={<News />} />
           <Route path="/learn/:trackId" element={<Learn />} />
+          <Route path="/learn/:trackId/:lessonId" element={<Lesson />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

@@ -1,42 +1,179 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
+/* =========================================================
+   DevCodeHub – app.css  (Tailwind v4 safe)
+   ---------------------------------------------------------
+   • Não use @tailwind aqui (apenas no index.css com @import "tailwindcss")
+   • Pode editar cores/tokens nas variáveis do :root
+   ========================================================= */
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
+/* -------------------- BASE (tema + tipografia + links) -------------------- */
+@layer base {
+  :root {
+    color-scheme: light dark;
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
+    /* tokens de cor (ajuste se quiser) */
+    --dc-fg: 24 24 27;        /* texto principal (zinc-900) */
+    --dc-fg-muted: 63 63 70;  /* texto secundário (zinc-700) */
+    --dc-border: 228 228 231; /* zinc-200 */
+    --dc-accent: 99 102 241;  /* indigo-500/600 */
   }
-  to {
-    transform: rotate(360deg);
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --dc-fg: 244 244 245;        /* zinc-100 */
+      --dc-fg-muted: 212 212 216;  /* zinc-300 */
+      --dc-border: 63 63 70;       /* zinc-700 */
+      --dc-accent: 129 140 248;    /* indigo-400 */
+    }
+  }
+
+  html, body, #root { min-height: 100%; }
+
+  /* Texto padrão (mantém fundo vindo do index.css/Tailwind) */
+  body { color: rgb(var(--dc-fg)); }
+
+  /* Títulos */
+  h1, h2, h3, h4 { color: rgb(var(--dc-fg)); letter-spacing: -0.01em; }
+
+  /* Links com bom contraste nos dois temas */
+  a {
+    color: rgb(79 70 229);              /* indigo-600 */
+    text-underline-offset: .25em;
+  }
+  a:hover { color: rgb(67 56 202); }    /* indigo-700 */
+  @media (prefers-color-scheme: dark) {
+    a { color: rgb(165 180 252); }      /* indigo-300 */
+    a:hover { color: rgb(199 210 254); }/* indigo-200 */
   }
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
+/* -------------------- COMPONENTS/UTILS DO APP -------------------- */
+@layer components {
+  /* Container responsivo */
+  .container-lg { max-width: 72rem; width: 100%; margin-inline: auto; padding-inline: 1rem; }
+
+  /* Cartão base */
+  .card {
+    border-radius: 1rem;
+    border: 1px solid rgba(228, 228, 231, .8); /* zinc-200/80 */
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
   }
+  @media (prefers-color-scheme: dark) {
+    .card {
+      border-color: rgba(63, 63, 70, .8);      /* zinc-700/80 */
+      background: rgba(24,24,27,.6);           /* zinc-900/60 */
+    }
+  }
+
+  /* Section pronta (card + padding) */
+  .section {
+    border-radius: 1rem;
+    border: 1px solid rgba(228, 228, 231, .8);
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
+    padding: 2rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    .section {
+      border-color: rgba(63,63,70,.8);
+      background: rgba(24,24,27,.6);
+    }
+  }
+
+  /* Botões */
+  .btn-primary {
+    display:inline-flex; align-items:center; justify-content:center; gap:.5rem;
+    border-radius:.75rem; padding:.75rem 1.25rem;
+    font-size:.875rem; font-weight:600;
+    background:#4f46e5; color:#fff; text-decoration:none;
+    box-shadow:0 1px 2px rgba(0,0,0,.05);
+    transition: box-shadow .2s, background-color .2s, transform .02s;
+  }
+  .btn-primary:hover { background:#4338ca; box-shadow:0 4px 12px rgba(0,0,0,.08); }
+  .btn-primary:active { background:#3730a3; transform:translateY(1px); }
+
+  .btn-ghost {
+    display:inline-flex; align-items:center; justify-content:center; gap:.5rem;
+    border-radius:.75rem; padding:.75rem 1.25rem;
+    font-size:.875rem; font-weight:500;
+    border:1px solid #d4d4d8; color:#3f3f46; text-decoration:none;
+    transition: background-color .2s, color .2s, transform .02s;
+  }
+  .btn-ghost:hover { background:#fafafa; }
+  @media (prefers-color-scheme: dark) {
+    .btn-ghost { border-color:#3f3f46; color:#e4e4e7; }
+    .btn-ghost:hover { background:#18181b; }
+  }
+
+  /* Footer – contraste reforçado no dark */
+  #app-footer h4 { color: rgb(244 244 245); }   /* zinc-100 */
+  #app-footer p,
+  #app-footer li { color: rgb(212 212 216); }   /* zinc-300 */
+  #app-footer a { color: rgb(228 228 231); }    /* zinc-200 */
+  #app-footer a:hover { color: rgb(250 250 250); } /* zinc-50 */
 }
 
-.card {
-  padding: 2em;
-}
+/* -------------------- CONTRAST BOOST (aplique em <main class="contrast-boost">) -------------------- */
+@layer components {
+  .contrast-boost h1,
+  .contrast-boost h2,
+  .contrast-boost h3,
+  .contrast-boost h4,
+  .contrast-boost strong { color: rgb(var(--dc-fg)); }
 
-.read-the-docs {
-  color: #888;
+  .contrast-boost p,
+  .contrast-boost li,
+  .contrast-boost span,
+  .contrast-boost label,
+  .contrast-boost small { color: rgb(var(--dc-fg-muted)); }
+
+  /* Inputs / Select / Textarea */
+  .contrast-boost input[type="text"],
+  .contrast-boost input[type="search"],
+  .contrast-boost input[type="number"],
+  .contrast-boost select,
+  .contrast-boost textarea {
+    color: rgb(var(--dc-fg));
+    background-color: rgba(255,255,255,.05);
+    border: 1px solid rgb(var(--dc-border));
+    border-radius: .75rem;
+    padding: .625rem .875rem; /* px-3.5 py-2.5 */
+    outline: none;
+  }
+  @media (prefers-color-scheme: dark) {
+    .contrast-boost input[type="text"],
+    .contrast-boost input[type="search"],
+    .contrast-boost input[type="number"],
+    .contrast-boost select,
+    .contrast-boost textarea {
+      background-color: rgba(24,24,27,.6); /* zinc-900/60 */
+      border-color: rgb(var(--dc-border));
+    }
+  }
+
+  .contrast-boost input::placeholder,
+  .contrast-boost textarea::placeholder { color: rgba(148,163,184,.85); } /* slate-400 aprox */
+
+  .contrast-boost input:focus,
+  .contrast-boost select:focus,
+  .contrast-boost textarea:focus {
+    box-shadow: 0 0 0 3px rgba(var(--dc-accent), .35);
+    border-color: rgb(var(--dc-accent));
+  }
+
+  /* Checkbox / Radio */
+  .contrast-boost input[type="checkbox"],
+  .contrast-boost input[type="radio"] { accent-color: rgb(var(--dc-accent)); }
+
+  /* Progress bar */
+  .contrast-boost progress { width: 100%; accent-color: rgb(var(--dc-accent)); }
+  .contrast-boost progress::-webkit-progress-bar {
+    background-color: rgba(39,39,42,.4); border-radius: 9999px;
+  }
+  .contrast-boost progress::-webkit-progress-value {
+    background-color: rgb(var(--dc-accent)); border-radius: 9999px;
+  }
+
+  /* Links dentro do boost */
+  .contrast-boost a { color: rgb(var(--dc-accent)); text-underline-offset: .25em; }
+  .contrast-boost a:hover { filter: brightness(1.1); }
 }
