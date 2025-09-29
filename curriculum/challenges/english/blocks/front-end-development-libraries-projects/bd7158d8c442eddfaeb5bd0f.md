@@ -4,6 +4,9 @@ title: Build a 25 + 5 Clock
 challengeType: 3
 forumTopicId: 301373
 dashedName: build-a-25--5-clock
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.444Z'
 ---
 
 # --description--

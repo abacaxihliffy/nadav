@@ -3,6 +3,9 @@ id: 5f3ef6e087d56ed3ffdc36be
 title: Step 61
 challengeType: 0
 dashedName: step-61
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:26.159Z'
 ---
 
 # --description--

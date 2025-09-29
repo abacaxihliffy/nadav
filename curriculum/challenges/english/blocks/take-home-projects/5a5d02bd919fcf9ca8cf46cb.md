@@ -4,6 +4,9 @@ title: Build a Light-Bright App
 challengeType: 3
 forumTopicId: 302350
 dashedName: build-a-light-bright-app
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.261Z'
 ---
 
 # --description--

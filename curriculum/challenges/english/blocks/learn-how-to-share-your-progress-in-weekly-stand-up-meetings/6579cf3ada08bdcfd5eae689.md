@@ -3,6 +3,9 @@ id: 6579cf3ada08bdcfd5eae689
 title: Task 5
 challengeType: 19
 dashedName: task-5
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.420Z'
 ---
 
 <!-- (Audio) Sophie: Sure, Bob. I could use some help with a coding problem. -->

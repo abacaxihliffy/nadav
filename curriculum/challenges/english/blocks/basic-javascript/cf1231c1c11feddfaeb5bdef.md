@@ -4,6 +4,9 @@ title: Multiply Two Numbers with JavaScript
 challengeType: 1
 forumTopicId: 18243
 dashedName: multiply-two-numbers-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.301Z'
 ---
 
 # --description--

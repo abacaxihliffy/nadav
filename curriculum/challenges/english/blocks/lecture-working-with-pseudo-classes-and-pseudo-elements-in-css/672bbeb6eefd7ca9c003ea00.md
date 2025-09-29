@@ -3,6 +3,9 @@ id: 672bbeb6eefd7ca9c003ea00
 title: What Are Examples of Tree-structural Pseudo-classes?
 challengeType: 19
 dashedName: what-are-examples-of-tree-structural-pseudo-classes
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.747Z'
 ---
 
 # --description--

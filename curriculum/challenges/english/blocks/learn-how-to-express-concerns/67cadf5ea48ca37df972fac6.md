@@ -3,6 +3,9 @@ id: 67cadf5ea48ca37df972fac6
 title: Task 124
 challengeType: 19
 dashedName: task-124
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.019Z'
 ---
 
 <!-- (Audio) Maria: First, they really need more support. -->

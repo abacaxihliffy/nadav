@@ -4,6 +4,9 @@ title: Create a Complex JSX Element
 challengeType: 6
 forumTopicId: 301382
 dashedName: create-a-complex-jsx-element
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.101Z'
 ---
 
 # --description--

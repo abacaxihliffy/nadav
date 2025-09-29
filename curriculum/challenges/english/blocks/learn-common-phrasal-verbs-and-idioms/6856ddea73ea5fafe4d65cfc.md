@@ -3,6 +3,9 @@ id: 6856ddea73ea5fafe4d65cfc
 title: Task 95
 challengeType: 19
 dashedName: task-95
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.663Z'
 ---
 
 <!-- (Audio) Jake: We could incorporate an interactive quiz during the onboarding process. It could teach users how to recognize and handle potential phishing attempts. -->

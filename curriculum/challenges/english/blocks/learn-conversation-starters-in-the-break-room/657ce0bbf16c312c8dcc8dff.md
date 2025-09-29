@@ -3,6 +3,9 @@ id: 657ce0bbf16c312c8dcc8dff
 title: Task 63
 challengeType: 19
 dashedName: task-63
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.972Z'
 ---
 
 # --description--

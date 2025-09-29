@@ -3,6 +3,9 @@ id: 67eff3ae8cca9823edafadc6
 title: Task 59
 challengeType: 19
 dashedName: task-59
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.329Z'
 ---
 
 <!-- (audio) Jake: Have you checked whether all security updates were applied? -->

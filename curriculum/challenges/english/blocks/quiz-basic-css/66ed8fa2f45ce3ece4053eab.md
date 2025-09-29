@@ -3,6 +3,9 @@ id: 66ed8fa2f45ce3ece4053eab
 title: Basic CSS Quiz
 challengeType: 8
 dashedName: quiz-basic-css
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.628Z'
 ---
 
 # --description--

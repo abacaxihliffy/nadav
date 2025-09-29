@@ -3,6 +3,9 @@ id: 5f46ede1ff8fec5ba656b44c
 title: Step 77
 challengeType: 0
 dashedName: step-77
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.814Z'
 ---
 
 # --description--

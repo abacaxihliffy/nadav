@@ -4,6 +4,9 @@ title: Find the Length of a String
 challengeType: 1
 forumTopicId: 18182
 dashedName: find-the-length-of-a-string
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.901Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 679d62d4afabb9cb6f9ece23
 title: Task 106
 challengeType: 19
 dashedName: task-106
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.613Z'
 ---
 
 <!-- (Audio) Maria: If we rush, it could lead to more problems. -->

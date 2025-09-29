@@ -3,6 +3,9 @@ id: 65d86af6cdfed1fcab11abbe
 title: Task 70
 challengeType: 22
 dashedName: task-70
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.502Z'
 ---
 
 <!-- (Audio) Maria: He also ensures that everyone follows security procedures. -->

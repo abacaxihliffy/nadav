@@ -3,6 +3,9 @@ id: 65d5d1bdbd0a7f4e3edb6c8e
 title: Task 35
 challengeType: 19
 dashedName: task-35
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.462Z'
 ---
 
 <!-- (Audio) Tom: Hey, have you ever worked with Anna from HR? -->

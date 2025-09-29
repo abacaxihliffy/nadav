@@ -3,6 +3,9 @@ id: 67c03f86bccfec0be6de656b
 title: Task 113
 challengeType: 19
 dashedName: task-113
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.322Z'
 ---
 
 <!-- (audio) Anna: I see your point, but flexibility might be better. Think about it. -->

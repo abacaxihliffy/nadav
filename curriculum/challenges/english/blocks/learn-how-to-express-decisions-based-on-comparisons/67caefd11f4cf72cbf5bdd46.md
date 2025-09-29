@@ -3,6 +3,9 @@ id: 67caefd11f4cf72cbf5bdd46
 title: Task 37
 challengeType: 22
 dashedName: task-37
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.088Z'
 ---
 
 <!-- (audio) Jake: Not really. SafeGuard is more focused on security, so it might not integrate as easily with other platforms. -->

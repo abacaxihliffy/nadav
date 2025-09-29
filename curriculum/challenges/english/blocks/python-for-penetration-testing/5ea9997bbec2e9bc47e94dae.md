@@ -8,6 +8,9 @@ bilibiliIds:
   bvid: BV13Q4y1k7hX
   cid: 409033630
 dashedName: introduction-and-setup
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.530Z'
 ---
 
 # --questions--

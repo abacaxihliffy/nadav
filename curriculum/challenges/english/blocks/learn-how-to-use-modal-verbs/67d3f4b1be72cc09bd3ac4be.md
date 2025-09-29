@@ -3,6 +3,9 @@ id: 67d3f4b1be72cc09bd3ac4be
 title: Task 4
 challengeType: 22
 dashedName: task-4
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.840Z'
 ---
 
 <!-- (Audio) Jessica: There are a few things you must do to ensure compliance. -->

@@ -3,6 +3,9 @@ id: 65d6bc21bbb3fb20d47cd7ed
 title: Task 43
 challengeType: 22
 dashedName: task-43
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.471Z'
 ---
 
 <!-- (Audio) Tom: I don't really know her, to be honest. What's her role?

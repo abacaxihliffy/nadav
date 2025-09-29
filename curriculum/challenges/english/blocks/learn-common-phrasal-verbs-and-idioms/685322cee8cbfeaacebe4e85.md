@@ -3,6 +3,9 @@ id: 685322cee8cbfeaacebe4e85
 title: Task 28
 challengeType: 22
 dashedName: task-28
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.510Z'
 ---
 
 <!-- (Audio) Anna: Great idea, Brian. Encouraging growth is key. -->

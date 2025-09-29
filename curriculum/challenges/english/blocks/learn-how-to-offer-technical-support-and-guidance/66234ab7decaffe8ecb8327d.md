@@ -3,6 +3,9 @@ id: 66234ab7decaffe8ecb8327d
 title: Task 56
 challengeType: 22
 dashedName: task-56
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.693Z'
 ---
 
 <!-- (Audio) Sophie: Ok, so if I make changes here, do you think it could affect other functionalities? -->

@@ -4,6 +4,9 @@ title: Use the Twitch JSON API
 challengeType: 3
 forumTopicId: 19541
 dashedName: use-the-twitch-json-api
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.274Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 67ddafcebec26b8e5f46745b
 title: Task 31
 challengeType: 22
 dashedName: task-31
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.842Z'
 ---
 
 <!-- (Audio) James: Anything else we should discuss before our next meeting? -->

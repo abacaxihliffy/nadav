@@ -3,6 +3,9 @@ id: 66db5c0fafea6d794c92ccea
 title: Task 58
 challengeType: 19
 dashedName: task-58
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.999Z'
 ---
 <!--
 AUDIO REFERENCE:

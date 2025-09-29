@@ -4,6 +4,9 @@ title: Create Decimal Numbers with JavaScript
 challengeType: 1
 forumTopicId: 16826
 dashedName: create-decimal-numbers-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.303Z'
 ---
 
 # --description--

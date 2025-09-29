@@ -3,6 +3,9 @@ id: 679afc19cfcee1abd9e60ce2
 title: Task 61
 challengeType: 19
 dashedName: task-61
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.557Z'
 ---
 
 <!-- (Audio) Brian: If people don't feel valued, they might lose motivation, right? -->

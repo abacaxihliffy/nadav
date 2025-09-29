@@ -3,6 +3,9 @@ id: 662e4f2edbb46a1dc6efc94f
 title: Task 37
 challengeType: 22
 dashedName: task-37
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.189Z'
 ---
 
 <!-- (Audio) Tom: Don't worry. Debugging is a common challenge for programmers. -->

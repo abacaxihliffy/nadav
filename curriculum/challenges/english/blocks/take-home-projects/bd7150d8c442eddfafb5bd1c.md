@@ -4,6 +4,9 @@ title: P2P Video Chat Application
 challengeType: 4
 forumTopicId: 302366
 dashedName: p2p-video-chat-application
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.264Z'
 ---
 
 # --description--

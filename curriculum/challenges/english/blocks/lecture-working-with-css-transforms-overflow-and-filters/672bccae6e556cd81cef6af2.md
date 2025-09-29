@@ -1,8 +1,11 @@
 ---
 id: 672bccae6e556cd81cef6af2
-title: What Is Margin Collapsing, and How Does It Work?
+title: 'What Is Margin Collapsing, and How Does It Work?'
 challengeType: 19
 dashedName: what-is-margin-collapsing
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.635Z'
 ---
 
 # --description--

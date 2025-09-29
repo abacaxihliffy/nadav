@@ -4,6 +4,9 @@ title: Sudoku Solver
 challengeType: 4
 forumTopicId: 462357
 dashedName: sudoku-solver
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.557Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 656ab31ebccec247fde7cee4
 title: Task 64
 challengeType: 22
 dashedName: task-64
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.612Z'
 ---
 
 <!--

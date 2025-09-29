@@ -3,6 +3,9 @@ id: 657dbdae2bd6f60bda3226cc
 title: Task 81
 challengeType: 22
 dashedName: task-81
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.991Z'
 ---
 
 <!-- (audio) Tom: Tell me about our team meetings, Sophie. Do they happen every week? -->

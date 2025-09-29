@@ -3,6 +3,9 @@ id: 67c86f54f0b8aa4c3dd5bacd
 title: Task 108
 challengeType: 22
 dashedName: task-108
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:21.682Z'
 ---
 
 <!-- REVIEW -->

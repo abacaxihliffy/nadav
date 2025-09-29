@@ -3,6 +3,9 @@ id: 67a9f44e6dcabb0c402a9bfb
 title: Task 5
 challengeType: 19
 dashedName: task-5
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.211Z'
 ---
 
 <!-- (Audio) Bob: Do you think that's a good idea? -->

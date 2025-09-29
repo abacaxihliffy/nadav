@@ -3,6 +3,9 @@ id: 6555d8faed60b9d3e4a6cefb
 title: Step 72
 challengeType: 0
 dashedName: step-72
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.983Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 67af11fa7b01ff0c8ac9d6ed
 title: Task 45
 challengeType: 19
 dashedName: task-45
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.251Z'
 ---
 
 <!-- READING -->

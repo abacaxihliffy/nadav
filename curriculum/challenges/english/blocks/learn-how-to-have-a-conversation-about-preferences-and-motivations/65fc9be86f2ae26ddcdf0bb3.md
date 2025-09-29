@@ -3,6 +3,9 @@ id: 65fc9be86f2ae26ddcdf0bb3
 title: Task 36
 challengeType: 19
 dashedName: task-36
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.578Z'
 ---
 
 

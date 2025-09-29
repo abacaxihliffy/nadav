@@ -4,6 +4,9 @@ title: Build a Tribute Page
 challengeType: 25
 demoType: onClick
 dashedName: build-a-tribute-page
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.794Z'
 ---
 
 # --description--

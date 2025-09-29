@@ -3,6 +3,9 @@ id: 67d3fba28a7b770be2fef2ce
 title: Task 6
 challengeType: 19
 dashedName: task-6
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.842Z'
 ---
 
 <!-- (Audio) Jessica: Hi Mark, we need to talk about security protocols for the new project. There are a few things you must do to ensure compliance. -->

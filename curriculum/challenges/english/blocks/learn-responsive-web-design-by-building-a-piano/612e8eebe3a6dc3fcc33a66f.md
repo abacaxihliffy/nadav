@@ -3,6 +3,9 @@ id: 612e8eebe3a6dc3fcc33a66f
 title: Step 11
 challengeType: 0
 dashedName: step-11
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:22.703Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 62a8efb0e3ce826db8daf80f
 title: Step 133
 challengeType: 0
 dashedName: step-133
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.314Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 661bddbdbbc09e2b8fac0801
 title: Task 76
 challengeType: 22
 dashedName: task-76
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.049Z'
 ---
 
 <!-- (Audio) Alice: Also, it's used for identity verification at airports and secure facilities. -->

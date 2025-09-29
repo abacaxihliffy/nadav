@@ -4,6 +4,9 @@ title: American British Translator
 challengeType: 4
 forumTopicId: 462358
 dashedName: american-british-translator
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.560Z'
 ---
 
 # --description--

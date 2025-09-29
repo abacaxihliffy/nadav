@@ -4,6 +4,9 @@ title: Divide One Number by Another with JavaScript
 challengeType: 1
 forumTopicId: 17566
 dashedName: divide-one-number-by-another-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.171Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 681dbcca65bbda5f286dc0ca
 title: Implement the Quicksort Algorithm
 challengeType: 27
 dashedName: implement-the-quicksort-algorithm
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.758Z'
 ---
 
 # --description--

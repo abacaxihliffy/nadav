@@ -4,6 +4,9 @@ title: Build an Image Search Abstraction Layer
 challengeType: 4
 forumTopicId: 302361
 dashedName: build-an-image-search-abstraction-layer
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.282Z'
 ---
 
 # --description--

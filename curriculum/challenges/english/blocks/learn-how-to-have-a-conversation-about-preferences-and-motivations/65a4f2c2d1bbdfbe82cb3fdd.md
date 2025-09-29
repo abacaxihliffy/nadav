@@ -3,6 +3,9 @@ id: 65a4f2c2d1bbdfbe82cb3fdd
 title: Task 94
 challengeType: 22
 dashedName: task-94
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.506Z'
 ---
 
 <!-- (Audio) Bob: Hey, Sarah, do you know what really gets me excited about tech? It's all those amazing gadgets! -->

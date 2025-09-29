@@ -4,6 +4,9 @@ title: Smallest Common Multiple
 challengeType: 1
 forumTopicId: 16075
 dashedName: smallest-common-multiple
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.585Z'
 ---
 
 # --description--

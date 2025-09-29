@@ -3,6 +3,9 @@ id: 671a999cc77b7f9bceb4caeb
 title: CSS Animations Review
 challengeType: 31
 dashedName: review-css-animations
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.164Z'
 ---
 
 # --description--

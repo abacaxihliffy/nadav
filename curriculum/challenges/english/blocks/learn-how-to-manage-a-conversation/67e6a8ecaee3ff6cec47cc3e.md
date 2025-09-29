@@ -3,6 +3,9 @@ id: 67e6a8ecaee3ff6cec47cc3e
 title: Task 75
 challengeType: 19
 dashedName: task-75
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.889Z'
 ---
 
 <!-- (Audio) Jessica: I'll try to be quick so we can get back to the main agenda. -->

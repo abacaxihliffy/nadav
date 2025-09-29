@@ -3,6 +3,9 @@ id: 67eeb0a9bfe9ce2ab1cbffd2
 title: Task 29
 challengeType: 19
 dashedName: task-29
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.285Z'
 ---
 
 <!-- (audio) Sophie: Great. Also, you should have run the test suite before submitting your code. -->

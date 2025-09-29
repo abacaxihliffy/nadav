@@ -3,6 +3,9 @@ id: 67efebdf734ad521ace8a89e
 title: Task 57
 challengeType: 22
 dashedName: task-57
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.326Z'
 ---
 
 <!-- (audio) Jake: Sure, Jessica. It could be an unpatched vulnerability. -->

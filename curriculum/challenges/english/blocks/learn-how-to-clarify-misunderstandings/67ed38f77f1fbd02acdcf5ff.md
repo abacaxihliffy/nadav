@@ -3,6 +3,9 @@ id: 67ed38f77f1fbd02acdcf5ff
 title: Task 53
 challengeType: 22
 dashedName: task-53
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.865Z'
 ---
 
 <!-- (Audio) Lisa: Sure, Mark. What's going on? -->

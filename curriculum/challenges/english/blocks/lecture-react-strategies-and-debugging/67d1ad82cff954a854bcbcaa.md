@@ -3,6 +3,9 @@ id: 67d1ad82cff954a854bcbcaa
 title: What Is Prop Drilling?
 challengeType: 19
 dashedName: what-is-prop-drilling
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.362Z'
 ---
 
 # --description--

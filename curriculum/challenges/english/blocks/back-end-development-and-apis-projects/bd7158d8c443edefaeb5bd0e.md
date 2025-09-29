@@ -4,6 +4,9 @@ title: URL Shortener Microservice
 challengeType: 4
 forumTopicId: 301509
 dashedName: url-shortener-microservice
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.932Z'
 ---
 
 # --description--

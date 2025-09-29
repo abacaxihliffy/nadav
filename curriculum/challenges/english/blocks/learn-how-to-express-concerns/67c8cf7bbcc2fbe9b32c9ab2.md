@@ -3,6 +3,9 @@ id: 67c8cf7bbcc2fbe9b32c9ab2
 title: Task 92
 challengeType: 19
 dashedName: task-92
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.985Z'
 ---
 
 <!-- (Audio) Maria: That's a good point. I'll suggest having more regular check-ins with the team to improve communication. -->

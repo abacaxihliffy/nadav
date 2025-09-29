@@ -3,6 +3,9 @@ id: 67e2ae1300a8edcdede767db
 title: Task 4
 challengeType: 22
 dashedName: task-4
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.814Z'
 ---
 
 <!-- (Audio) Mark: Can I ask you about a few of them? -->

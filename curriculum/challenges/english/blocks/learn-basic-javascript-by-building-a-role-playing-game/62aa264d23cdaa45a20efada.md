@@ -3,6 +3,9 @@ id: 62aa264d23cdaa45a20efada
 title: Step 163
 challengeType: 0
 dashedName: step-163
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.352Z'
 ---
 
 # --description--

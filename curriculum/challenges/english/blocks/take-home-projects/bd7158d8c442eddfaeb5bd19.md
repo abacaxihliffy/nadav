@@ -4,6 +4,9 @@ title: Build a Wikipedia Viewer
 challengeType: 3
 forumTopicId: 302360
 dashedName: build-a-wikipedia-viewer
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.272Z'
 ---
 
 # --description--

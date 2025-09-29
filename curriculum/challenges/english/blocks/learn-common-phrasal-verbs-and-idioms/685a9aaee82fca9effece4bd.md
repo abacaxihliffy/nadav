@@ -3,6 +3,9 @@ id: 685a9aaee82fca9effece4bd
 title: Task 130
 challengeType: 22
 dashedName: task-130
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.738Z'
 ---
 
 <!-- (Audio) Bob: Yes, let's do that. It'll help us manage the attendee list better. Can you draft the invitation? -->

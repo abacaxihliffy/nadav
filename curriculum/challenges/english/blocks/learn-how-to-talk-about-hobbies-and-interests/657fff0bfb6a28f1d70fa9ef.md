@@ -3,6 +3,9 @@ id: 657fff0bfb6a28f1d70fa9ef
 title: Task 80
 challengeType: 22
 dashedName: task-80
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.885Z'
 ---
 
 <!-- (Audio) Tom: Thanks for the invite, Sarah. I appreciate it, but I'm not really into sci-fi. -->

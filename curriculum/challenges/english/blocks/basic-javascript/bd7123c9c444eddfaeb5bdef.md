@@ -4,6 +4,9 @@ title: Declare String Variables
 challengeType: 1
 forumTopicId: 17557
 dashedName: declare-string-variables
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.898Z'
 ---
 
 # --description--

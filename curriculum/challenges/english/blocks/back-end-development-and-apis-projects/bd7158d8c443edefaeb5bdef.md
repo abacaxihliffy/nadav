@@ -4,6 +4,9 @@ title: Timestamp Microservice
 challengeType: 4
 forumTopicId: 301508
 dashedName: timestamp-microservice
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.934Z'
 ---
 
 # --description--

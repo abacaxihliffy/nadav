@@ -4,6 +4,9 @@ title: Build a Recipe Box
 challengeType: 3
 forumTopicId: 302354
 dashedName: build-a-recipe-box
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.268Z'
 ---
 
 # --description--

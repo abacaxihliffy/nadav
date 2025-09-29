@@ -3,6 +3,9 @@ id: 66c8fb021dcfcb767dfec33a
 title: Task 16
 challengeType: 19
 dashedName: task-16
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.935Z'
 ---
 <!-- (Audio) Linda: No, we haven't. But we've solved similar issues on other projects. -->
 

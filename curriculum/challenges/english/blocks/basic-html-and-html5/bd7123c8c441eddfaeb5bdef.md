@@ -5,6 +5,9 @@ challengeType: 0
 videoUrl: 'https://scrimba.com/p/pVMPUv/cE8Gpt2'
 forumTopicId: 18276
 dashedName: say-hello-to-html-elements
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:59.154Z'
 ---
 
 # --description--

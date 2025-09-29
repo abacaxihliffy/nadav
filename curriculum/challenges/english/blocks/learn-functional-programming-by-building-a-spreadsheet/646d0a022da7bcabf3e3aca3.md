@@ -3,6 +3,9 @@ id: 646d0a022da7bcabf3e3aca3
 title: Step 45
 challengeType: 0
 dashedName: step-45
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.072Z'
 ---
 
 # --description--

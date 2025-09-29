@@ -4,6 +4,9 @@ title: File Metadata Microservice
 challengeType: 4
 forumTopicId: 301506
 dashedName: file-metadata-microservice
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.933Z'
 ---
 
 # --description--

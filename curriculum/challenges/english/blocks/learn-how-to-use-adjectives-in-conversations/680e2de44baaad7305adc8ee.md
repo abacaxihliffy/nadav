@@ -3,6 +3,9 @@ id: 680e2de44baaad7305adc8ee
 title: Task 46
 challengeType: 22
 dashedName: task-46
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.356Z'
 ---
 
 <!-- (Audio) Josh: I'll draft a new quote with these specifics and send it over to you by tomorrow. Does that work for you? -->

@@ -3,6 +3,9 @@ id: 66b56cb9ff3bfb183fa1b7db
 title: Task 83
 challengeType: 22
 dashedName: task-83
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.177Z'
 ---
 
 <!-- (Audio) Anna: When do you think this new module will be ready? -->

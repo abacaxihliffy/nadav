@@ -4,6 +4,9 @@ title: Diff Two Arrays
 challengeType: 1
 forumTopicId: 16008
 dashedName: diff-two-arrays
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.572Z'
 ---
 
 # --description--

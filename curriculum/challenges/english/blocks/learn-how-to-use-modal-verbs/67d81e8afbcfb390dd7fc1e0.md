@@ -3,6 +3,9 @@ id: 67d81e8afbcfb390dd7fc1e0
 title: Task 133
 challengeType: 19
 dashedName: task-133
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.978Z'
 ---
 
 <!-- (audio) Lisa: Have you checked which files were compromised? -->

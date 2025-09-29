@@ -4,6 +4,9 @@ title: Build a Tic Tac Toe Game
 challengeType: 3
 forumTopicId: 302358
 dashedName: build-a-tic-tac-toe-game
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.275Z'
 ---
 
 # --description--

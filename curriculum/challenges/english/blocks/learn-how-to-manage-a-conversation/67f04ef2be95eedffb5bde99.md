@@ -3,6 +3,9 @@ id: 67f04ef2be95eedffb5bde99
 title: Task 103
 challengeType: 22
 dashedName: task-103
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.921Z'
 ---
 
 <!-- (Audio) Brian: Is there anything else slowing you down? -->

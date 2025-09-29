@@ -4,6 +4,9 @@ title: Set consolidation
 challengeType: 1
 forumTopicId: 385319
 dashedName: set-consolidation
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.723Z'
 ---
 
 # --description--

@@ -4,6 +4,9 @@ title: Visualize Data with a Bar Chart
 challengeType: 3
 forumTopicId: 301464
 dashedName: visualize-data-with-a-bar-chart
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.283Z'
 ---
 
 # --description--

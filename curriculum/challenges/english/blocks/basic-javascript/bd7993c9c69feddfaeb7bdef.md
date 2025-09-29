@@ -4,6 +4,9 @@ title: Multiply Two Decimals with JavaScript
 challengeType: 1
 forumTopicId: 301173
 dashedName: multiply-two-decimals-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.973Z'
 ---
 
 # --description--

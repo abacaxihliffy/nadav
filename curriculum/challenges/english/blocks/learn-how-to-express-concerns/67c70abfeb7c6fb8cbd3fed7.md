@@ -3,6 +3,9 @@ id: 67c70abfeb7c6fb8cbd3fed7
 title: Task 57
 challengeType: 19
 dashedName: task-57
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.949Z'
 ---
 
 <!-- (Audio) Maria: Hey James, can we talk about my latest meeting with Bob? -->

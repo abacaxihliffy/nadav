@@ -3,6 +3,9 @@ id: 679bacd4af7be22f71bb43ee
 title: Task 65
 challengeType: 22
 dashedName: task-65
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.561Z'
 ---
 
 <!-- REVIEW -->

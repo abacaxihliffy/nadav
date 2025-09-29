@@ -4,6 +4,9 @@ title: Falsy Bouncer
 challengeType: 1
 forumTopicId: 16014
 dashedName: falsy-bouncer
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.957Z'
 ---
 
 # --description--

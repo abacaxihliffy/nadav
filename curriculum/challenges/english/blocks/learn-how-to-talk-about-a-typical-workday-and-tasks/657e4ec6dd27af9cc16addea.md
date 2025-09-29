@@ -3,6 +3,9 @@ id: 657e4ec6dd27af9cc16addea
 title: Task 79
 challengeType: 19
 dashedName: task-79
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.732Z'
 ---
 
 # --description--

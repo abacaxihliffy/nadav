@@ -3,6 +3,9 @@ id: 6751bdd2f78adbed1ea0fa51
 title: Task 24
 challengeType: 19
 dashedName: task-24
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.171Z'
 ---
 
 <!-- (Audio) Brian: Do you think we'll need to update the users about the downtime? -->

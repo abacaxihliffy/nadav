@@ -4,6 +4,9 @@ title: Build a Personal Portfolio
 challengeType: 25
 dashedName: build-a-personal-portfolio
 demoType: onClick
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.748Z'
 ---
 
 # --description--

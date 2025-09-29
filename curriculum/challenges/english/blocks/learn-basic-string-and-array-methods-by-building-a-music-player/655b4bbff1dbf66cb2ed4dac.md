@@ -3,6 +3,9 @@ id: 655b4bbff1dbf66cb2ed4dac
 title: Step 97
 challengeType: 0
 dashedName: step-97
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.017Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 680ae6fa6f3bb82a094cffcf
 title: Task 91
 challengeType: 19
 dashedName: task-91
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.149Z'
 ---
 
 <!-- (Audio) Riker: The UK and Germany saw the most improvement, even more than we expected. -->

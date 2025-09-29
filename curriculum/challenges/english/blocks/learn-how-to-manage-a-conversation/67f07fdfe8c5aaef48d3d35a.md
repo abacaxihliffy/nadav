@@ -3,6 +3,9 @@ id: 67f07fdfe8c5aaef48d3d35a
 title: Task 130
 challengeType: 19
 dashedName: task-130
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.948Z'
 ---
 
 <!-- READING -->

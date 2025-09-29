@@ -3,6 +3,9 @@ id: 62aa20e9cf1be9358f5aceae
 title: Step 151
 challengeType: 0
 dashedName: step-151
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.334Z'
 ---
 
 # --description--

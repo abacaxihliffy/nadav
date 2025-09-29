@@ -3,6 +3,9 @@ id: 657fbde9a43e35ec1ebafe56
 title: Task 77
 challengeType: 19
 dashedName: task-77
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.884Z'
 ---
 
 <!-- (Audio) Sarah: There's a big convention next month. Would you like to come? -->

@@ -3,6 +3,9 @@ id: 67f38fac88ead216c0db1dcb
 title: Task 81
 challengeType: 19
 dashedName: task-81
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.352Z'
 ---
 
 <!-- (audio) Jake: Did you check whether there was any unusual access from external IPs or locations? -->

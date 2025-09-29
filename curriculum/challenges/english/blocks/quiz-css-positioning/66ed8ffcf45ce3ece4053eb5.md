@@ -3,6 +3,9 @@ id: 66ed8ffcf45ce3ece4053eb5
 title: CSS Positioning Quiz
 challengeType: 8
 dashedName: quiz-css-positioning
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.913Z'
 ---
 
 # --description--

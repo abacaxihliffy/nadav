@@ -4,6 +4,9 @@ title: Design a Set of Colored Boxes
 challengeType: 25
 dashedName: set-of-colored-boxes
 demoType: onClick
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.655Z'
 ---
 
 # --description--

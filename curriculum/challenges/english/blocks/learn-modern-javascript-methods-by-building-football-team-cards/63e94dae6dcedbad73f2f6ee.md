@@ -3,6 +3,9 @@ id: 63e94dae6dcedbad73f2f6ee
 title: Step 24
 challengeType: 0
 dashedName: step-24
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:22.044Z'
 ---
 
 # --description--

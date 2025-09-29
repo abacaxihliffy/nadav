@@ -3,6 +3,9 @@ id: 65ca0dfaea3f4112afde6e26
 title: Step 52
 challengeType: 20
 dashedName: step-52
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.159Z'
 ---
 
 # --description--

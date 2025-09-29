@@ -3,6 +3,9 @@ id: 66ed8fedf45ce3ece4053eb3
 title: CSS Grid Quiz
 challengeType: 8
 dashedName: quiz-css-grid
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.909Z'
 ---
 
 # --description--

@@ -1,8 +1,11 @@
 ---
 id: 6660a1f8afeef3663bddaecb
-title: "Dialogue 1: Should Have Noticed That"
+title: 'Dialogue 1: Should Have Noticed That'
 challengeType: 21
 dashedName: dialogue-1-should-have-noticed-that
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.215Z'
 ---
 
 # --description--

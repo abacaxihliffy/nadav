@@ -3,6 +3,9 @@ id: 67baf3ed288e8b06f4ab0dfb
 title: Task 76
 challengeType: 22
 dashedName: task-76
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.285Z'
 ---
 
 <!-- (Audio) David: It builds team spirit and makes problem-solving easier. -->

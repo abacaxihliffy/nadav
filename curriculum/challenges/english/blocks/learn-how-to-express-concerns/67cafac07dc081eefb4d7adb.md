@@ -3,6 +3,9 @@ id: 67cafac07dc081eefb4d7adb
 title: Task 135
 challengeType: 19
 dashedName: task-135
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.031Z'
 ---
 
 <!-- (Audio) Bob: That makes sense. Could you set up a weekly meeting to discuss progress and keep everyone in the loop? -->

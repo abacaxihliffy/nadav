@@ -4,6 +4,9 @@ title: Show the Local Weather
 challengeType: 3
 forumTopicId: 302368
 dashedName: show-the-local-weather
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.271Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 619cfdf2e63ddf05feab86ad
 title: Step 47
 challengeType: 0
 dashedName: step-47
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:27.204Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 64e4ebc7eabc5a6babd479cd
 title: Step 9
 challengeType: 0
 dashedName: step-9
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:28.299Z'
 ---
 
 # --description--

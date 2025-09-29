@@ -3,6 +3,9 @@ id: 686daa7ed79ceacd0b264e7d
 title: Step 2
 challengeType: 0
 dashedName: step-2
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.773Z'
 ---
 
 # --description--

@@ -1,8 +1,14 @@
 ---
 id: 67d301cc87b84eaa42bdcdbe
-title: What Is a tsconfig File, and Why Is It Important to Include in Your TypeScript Projects?
+title: >-
+  What Is a tsconfig File, and Why Is It Important to Include in Your TypeScript
+  Projects?
 challengeType: 19
-dashedName: what-is-a-tsconfig-file-and-why-is-it-important-to-include-in-your-typescript-projects
+dashedName: >-
+  what-is-a-tsconfig-file-and-why-is-it-important-to-include-in-your-typescript-projects
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.887Z'
 ---
 
 # --description--

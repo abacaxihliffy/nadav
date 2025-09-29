@@ -1,8 +1,11 @@
 ---
 id: 672bc4ff5e7a4bbdee8ba013
-title: What Are Named Colors in CSS, and When to Use Them?
+title: 'What Are Named Colors in CSS, and When to Use Them?'
 challengeType: 19
 dashedName: what-are-named-colors-in-css
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.576Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 680aef568ac1bd591eceb0dc
 title: Task 98
 challengeType: 22
 dashedName: task-98
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.157Z'
 ---
 
 <!-- (Audio) Riker: The ads cost more than we thought they would. -->

@@ -3,6 +3,9 @@ id: 66a97ca8c4cbae7d0bb6e0ad
 title: Step 32
 challengeType: 0
 dashedName: step-32
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:27.113Z'
 ---
 
 # --description--

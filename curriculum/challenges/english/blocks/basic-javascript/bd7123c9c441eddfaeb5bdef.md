@@ -4,6 +4,9 @@ title: Understanding Boolean Values
 challengeType: 1
 forumTopicId: 301176
 dashedName: understanding-boolean-values
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.891Z'
 ---
 
 # --description--

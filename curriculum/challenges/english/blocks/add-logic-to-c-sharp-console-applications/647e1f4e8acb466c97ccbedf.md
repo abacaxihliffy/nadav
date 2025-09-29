@@ -2,7 +2,11 @@
 id: 647e1f4e8acb466c97ccbedf
 title: Add Looping Logic to Your Code Using the do-while and while Statements in C#
 challengeType: 19
-dashedName: add-looping-logic-to-your-code-using-the-do-while-and-while-statements-in-c-sharp
+dashedName: >-
+  add-looping-logic-to-your-code-using-the-do-while-and-while-statements-in-c-sharp
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.838Z'
 ---
 
 # --description--

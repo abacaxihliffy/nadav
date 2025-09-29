@@ -4,6 +4,9 @@ title: Declare JavaScript Variables
 challengeType: 1
 forumTopicId: 17556
 dashedName: declare-javascript-variables
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.894Z'
 ---
 
 # --description--

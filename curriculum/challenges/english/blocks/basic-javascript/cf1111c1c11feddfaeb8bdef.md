@@ -4,6 +4,9 @@ title: Modify Array Data With Indexes
 challengeType: 1
 forumTopicId: 18241
 dashedName: modify-array-data-with-indexes
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.232Z'
 ---
 
 # --description--

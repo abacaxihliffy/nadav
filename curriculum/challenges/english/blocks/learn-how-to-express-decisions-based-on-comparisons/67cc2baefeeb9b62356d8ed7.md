@@ -3,6 +3,9 @@ id: 67cc2baefeeb9b62356d8ed7
 title: Task 50
 challengeType: 22
 dashedName: task-50
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.103Z'
 ---
 
 <!-- REVIEW -->

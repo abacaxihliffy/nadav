@@ -3,6 +3,9 @@ id: 66ed8fc1f45ce3ece4053ead
 title: CSS Accessibility Quiz
 challengeType: 8
 dashedName: quiz-css-accessibility
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.900Z'
 ---
 
 # --description--

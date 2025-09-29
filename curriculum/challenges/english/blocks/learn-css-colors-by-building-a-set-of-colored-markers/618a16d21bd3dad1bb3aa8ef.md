@@ -3,6 +3,9 @@ id: 618a16d21bd3dad1bb3aa8ef
 title: Step 41
 challengeType: 0
 dashedName: step-41
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.845Z'
 ---
 
 # --description--

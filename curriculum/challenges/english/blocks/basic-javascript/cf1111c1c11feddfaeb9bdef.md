@@ -4,6 +4,9 @@ title: Generate Random Fractions with JavaScript
 challengeType: 1
 forumTopicId: 18185
 dashedName: generate-random-fractions-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.292Z'
 ---
 
 # --description--

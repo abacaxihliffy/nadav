@@ -3,6 +3,9 @@ id: 686fdcfe055bcda9f651dd2e
 title: Build an Adjacency List to Matrix Converter
 challengeType: 27
 dashedName: build-an-adjacency-list-to-matrix-converter
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.592Z'
 ---
 
 # --description--

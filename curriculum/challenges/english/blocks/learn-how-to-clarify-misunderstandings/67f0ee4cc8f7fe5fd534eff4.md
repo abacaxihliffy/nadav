@@ -3,6 +3,9 @@ id: 67f0ee4cc8f7fe5fd534eff4
 title: Task 87
 challengeType: 22
 dashedName: task-87
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.898Z'
 ---
 
 <!-- (Audio) Mark: Yeah, that sounds good. Thanks for your help, Lisa. I appreciate it. -->

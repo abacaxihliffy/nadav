@@ -3,6 +3,9 @@ id: 66ed8fb9f45ce3ece4053eac
 title: Computer Basics Quiz
 challengeType: 8
 dashedName: quiz-computer-basics
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.898Z'
 ---
 
 # --description--

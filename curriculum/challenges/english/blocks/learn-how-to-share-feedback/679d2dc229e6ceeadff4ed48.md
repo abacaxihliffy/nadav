@@ -3,6 +3,9 @@ id: 679d2dc229e6ceeadff4ed48
 title: Task 92
 challengeType: 22
 dashedName: task-92
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.597Z'
 ---
 
 <!-- (Audio) James: Do you think we need to update the software again? If we do, it might delay other projects. -->

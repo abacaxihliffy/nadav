@@ -3,6 +3,9 @@ id: 67d2ff6f069dce9feacb7d25
 title: What Is Compatibility Testing?
 challengeType: 19
 dashedName: what-is-compatibility-testing
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.462Z'
 ---
 
 # --description--
