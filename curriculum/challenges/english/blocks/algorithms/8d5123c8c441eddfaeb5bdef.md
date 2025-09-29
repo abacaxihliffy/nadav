@@ -4,6 +4,9 @@ title: Implement Bubble Sort
 challengeType: 1
 forumTopicId: 301612
 dashedName: implement-bubble-sort
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.862Z'
 ---
 
 # --description--

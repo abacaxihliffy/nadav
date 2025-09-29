@@ -3,6 +3,9 @@ id: 675e6f0bf7f7eb69ddffef81
 title: Task 68
 challengeType: 22
 dashedName: task-68
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.219Z'
 ---
 
 <!-- (audio) Mark: No, we don't. Okay, let's get to work and see if we can sort this out. -->

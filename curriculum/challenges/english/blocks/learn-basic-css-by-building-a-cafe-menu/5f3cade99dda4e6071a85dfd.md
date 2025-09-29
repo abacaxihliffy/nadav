@@ -3,6 +3,9 @@ id: 5f3cade99dda4e6071a85dfd
 title: Step 46
 challengeType: 0
 dashedName: step-46
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.723Z'
 ---
 
 # --description--

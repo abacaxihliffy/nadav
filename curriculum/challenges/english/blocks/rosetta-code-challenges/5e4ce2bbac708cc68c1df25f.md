@@ -4,6 +4,9 @@ title: Letter frequency
 challengeType: 1
 forumTopicId: 385263
 dashedName: letter-frequency
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.696Z'
 ---
 
 # --description--

@@ -4,6 +4,9 @@ title: Build Five Programs
 challengeType: 12
 url: freeCodeCamp/learn-bash-scripting-by-building-five-programs
 dashedName: build-five-programs
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.504Z'
 ---
 
 # --description--

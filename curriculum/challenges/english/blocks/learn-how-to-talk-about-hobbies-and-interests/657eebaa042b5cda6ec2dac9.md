@@ -3,6 +3,9 @@ id: 657eebaa042b5cda6ec2dac9
 title: Task 59
 challengeType: 22
 dashedName: task-59
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.859Z'
 ---
 
 <!-- (Audio) Sarah: Are you kidding? -->

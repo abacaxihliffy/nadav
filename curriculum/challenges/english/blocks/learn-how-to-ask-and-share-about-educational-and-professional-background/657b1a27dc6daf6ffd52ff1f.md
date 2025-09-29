@@ -3,6 +3,9 @@ id: 657b1a27dc6daf6ffd52ff1f
 title: Task 30
 challengeType: 19
 dashedName: task-30
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.461Z'
 ---
 
 <!-- (Audio) Anna: Excellent! Can you share details about your educational background? Were you trained in a specific field?

@@ -3,6 +3,9 @@ id: 679d3cfdaca2eb81f8d81cf7
 title: Task 97
 challengeType: 19
 dashedName: task-97
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.602Z'
 ---
 
 <!-- (Audio) Maria: Can you look into it and see what's causing the problem? -->

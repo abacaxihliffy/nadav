@@ -3,6 +3,9 @@ id: 66ed8fc9f45ce3ece4053eae
 title: CSS Animations Quiz
 challengeType: 8
 dashedName: quiz-css-animations
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.901Z'
 ---
 
 # --description--

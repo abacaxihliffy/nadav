@@ -4,6 +4,9 @@ title: Build a Markdown Previewer
 challengeType: 3
 forumTopicId: 301372
 dashedName: build-a-markdown-previewer
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.442Z'
 ---
 
 # --description--

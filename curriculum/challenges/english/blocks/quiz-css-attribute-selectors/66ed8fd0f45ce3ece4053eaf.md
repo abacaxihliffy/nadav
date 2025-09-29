@@ -3,6 +3,9 @@ id: 66ed8fd0f45ce3ece4053eaf
 title: CSS Attribute Selectors Quiz
 challengeType: 8
 dashedName: quiz-css-attribute-selectors
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.903Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 5dfa30b9eacea3f48c6300ad
 title: Step 17
 challengeType: 0
 dashedName: step-17
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:26.078Z'
 ---
 
 # --description--

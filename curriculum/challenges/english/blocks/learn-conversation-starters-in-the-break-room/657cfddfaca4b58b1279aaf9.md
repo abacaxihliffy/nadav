@@ -3,6 +3,9 @@ id: 657cfddfaca4b58b1279aaf9
 title: Task 74
 challengeType: 22
 dashedName: task-74
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.983Z'
 ---
 
 <!-- (audio) Sophie: `Maria thinks challenges are positive. She encourages us to find solutions together.` -->

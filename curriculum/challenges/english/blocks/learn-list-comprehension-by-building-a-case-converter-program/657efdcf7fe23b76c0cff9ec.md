@@ -3,6 +3,9 @@ id: 657efdcf7fe23b76c0cff9ec
 title: Step 7
 challengeType: 20
 dashedName: step-7
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:21.995Z'
 ---
 
 # --description--

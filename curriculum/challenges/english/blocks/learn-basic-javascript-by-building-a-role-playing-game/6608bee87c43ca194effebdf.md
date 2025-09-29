@@ -3,6 +3,9 @@ id: 6608bee87c43ca194effebdf
 title: Step 53
 challengeType: 0
 dashedName: step-53
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.382Z'
 ---
 
 # --description--

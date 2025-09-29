@@ -3,6 +3,9 @@ id: 6734ddabad59e593a49afafe
 title: Welcome Message from Quincy
 challengeType: 19
 dashedName: welcome-message-from-quincy
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.516Z'
 ---
 
 # --description--

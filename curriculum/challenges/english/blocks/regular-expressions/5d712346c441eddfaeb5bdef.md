@@ -4,6 +4,9 @@ title: Match All Numbers
 challengeType: 1
 forumTopicId: 18181
 dashedName: match-all-numbers
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.072Z'
 ---
 
 # --description--

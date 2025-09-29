@@ -3,6 +3,9 @@ id: 657b72cbdef32ec0b1a24afb
 title: Task 30
 challengeType: 19
 dashedName: task-30
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.936Z'
 ---
 
 <!-- (audio) Tom: Wow! Electric or acoustic? Sophie: Electric, for sure! -->

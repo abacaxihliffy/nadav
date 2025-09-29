@@ -3,6 +3,9 @@ id: 680cad23e2d58a1ef7c2edfb
 title: Task 19
 challengeType: 22
 dashedName: task-19
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.316Z'
 ---
 
 <!-- (Audio) Sarah: Those are the ones. But, we found something even better in your catalog, these high-capacity ones here. -->

@@ -3,6 +3,9 @@ id: 671a98fbaabfba994e3d9a7c
 title: CSS Variables Review
 challengeType: 31
 dashedName: review-css-variables
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.176Z'
 ---
 
 # --description--

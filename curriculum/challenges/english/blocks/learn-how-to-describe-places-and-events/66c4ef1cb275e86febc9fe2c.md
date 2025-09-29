@@ -3,6 +3,9 @@ id: 66c4ef1cb275e86febc9fe2c
 title: Task 113
 challengeType: 22
 dashedName: task-113
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.211Z'
 ---
 
 <!-- Audio Reference:

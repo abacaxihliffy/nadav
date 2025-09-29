@@ -5,6 +5,9 @@ challengeType: 0
 videoUrl: 'https://scrimba.com/p/pVMPUv/cE8Gqf3'
 forumTopicId: 18196
 dashedName: headline-with-the-h2-element
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:59.150Z'
 ---
 
 # --description--

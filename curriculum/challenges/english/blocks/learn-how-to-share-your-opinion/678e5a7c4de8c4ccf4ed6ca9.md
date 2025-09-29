@@ -3,6 +3,9 @@ id: 678e5a7c4de8c4ccf4ed6ca9
 title: Task 66
 challengeType: 22
 dashedName: task-66
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.370Z'
 ---
 
 <!-- (audio) Jake: Okay, let's agree to disagree. -->

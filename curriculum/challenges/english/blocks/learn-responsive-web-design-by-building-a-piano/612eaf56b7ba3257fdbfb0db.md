@@ -3,6 +3,9 @@ id: 612eaf56b7ba3257fdbfb0db
 title: Step 21
 challengeType: 0
 dashedName: step-21
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:22.713Z'
 ---
 
 # --description--

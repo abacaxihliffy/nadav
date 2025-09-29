@@ -4,6 +4,9 @@ title: Use Conditional Logic with If Statements
 challengeType: 1
 forumTopicId: 18348
 dashedName: use-conditional-logic-with-if-statements
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.299Z'
 ---
 
 # --description--

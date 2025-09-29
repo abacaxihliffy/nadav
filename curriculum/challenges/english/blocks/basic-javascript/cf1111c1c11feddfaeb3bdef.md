@@ -4,6 +4,9 @@ title: Add Two Numbers with JavaScript
 challengeType: 1
 forumTopicId: 16650
 dashedName: add-two-numbers-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.043Z'
 ---
 
 # --description--

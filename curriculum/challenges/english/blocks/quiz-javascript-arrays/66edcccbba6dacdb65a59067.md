@@ -3,6 +3,9 @@ id: 66edcccbba6dacdb65a59067
 title: JavaScript Arrays Quiz
 challengeType: 8
 dashedName: quiz-javascript-arrays
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.934Z'
 ---
 
 # --description--

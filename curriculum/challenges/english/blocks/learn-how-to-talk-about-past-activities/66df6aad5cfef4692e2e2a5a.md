@@ -3,6 +3,9 @@ id: 66df6aad5cfef4692e2e2a5a
 title: Task 74
 challengeType: 22
 dashedName: task-74
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:19.032Z'
 ---
 <!--
 AUDIO REFERENCE:

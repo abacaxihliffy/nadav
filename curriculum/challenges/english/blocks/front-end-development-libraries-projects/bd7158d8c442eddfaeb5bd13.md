@@ -4,6 +4,9 @@ title: Build a Random Quote Machine
 challengeType: 3
 forumTopicId: 301374
 dashedName: build-a-random-quote-machine
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.445Z'
 ---
 
 # --description--

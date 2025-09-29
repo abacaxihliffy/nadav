@@ -3,6 +3,9 @@ id: 67efd8debbd3992137adbf7f
 title: Task 91
 challengeType: 22
 dashedName: task-91
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.907Z'
 ---
 
 <!-- (Audio) Brian: How's everything going on your end? -->

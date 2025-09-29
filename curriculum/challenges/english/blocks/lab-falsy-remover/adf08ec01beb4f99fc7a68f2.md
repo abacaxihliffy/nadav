@@ -3,6 +3,9 @@ id: adf08ec01beb4f99fc7a68f2
 title: Implement a Falsy Remover
 challengeType: 26
 dashedName: implement-a-falsy-remover
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.694Z'
 ---
 
 # --description--

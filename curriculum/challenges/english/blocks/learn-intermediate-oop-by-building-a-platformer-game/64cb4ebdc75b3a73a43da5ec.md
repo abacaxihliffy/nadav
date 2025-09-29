@@ -3,6 +3,9 @@ id: 64cb4ebdc75b3a73a43da5ec
 title: Step 108
 challengeType: 0
 dashedName: step-108
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:21.550Z'
 ---
 
 # --description--

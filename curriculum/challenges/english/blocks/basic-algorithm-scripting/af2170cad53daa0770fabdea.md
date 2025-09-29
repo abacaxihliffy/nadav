@@ -4,6 +4,9 @@ title: Mutations
 challengeType: 1
 forumTopicId: 16025
 dashedName: mutations
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.958Z'
 ---
 
 # --description--

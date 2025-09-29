@@ -4,6 +4,9 @@ title: Store Multiple Values in one Variable using JavaScript Arrays
 challengeType: 1
 forumTopicId: 18309
 dashedName: store-multiple-values-in-one-variable-using-javascript-arrays
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.975Z'
 ---
 
 # --description--

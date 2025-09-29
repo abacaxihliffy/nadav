@@ -3,6 +3,9 @@ id: 663a47b234aefeabacb3cf75
 title: Task 27
 challengeType: 22
 dashedName: task-27
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.357Z'
 ---
 
 <!-- (Audio) Sophie: Sure. Tom is a tall guy with a friendly smile. -->

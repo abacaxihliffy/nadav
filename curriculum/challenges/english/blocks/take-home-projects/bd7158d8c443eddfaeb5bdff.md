@@ -4,6 +4,9 @@ title: Build a Nightlife Coordination App
 challengeType: 4
 forumTopicId: 302351
 dashedName: build-a-nightlife-coordination-app
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.281Z'
 ---
 
 # --description--

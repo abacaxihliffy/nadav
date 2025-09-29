@@ -3,6 +3,9 @@ id: af2170cad53daa0770fabdea
 title: Implement the Mutations Algorithm
 challengeType: 26
 dashedName: implement-the-mutations-algorithm
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.732Z'
 ---
 
 # --description--

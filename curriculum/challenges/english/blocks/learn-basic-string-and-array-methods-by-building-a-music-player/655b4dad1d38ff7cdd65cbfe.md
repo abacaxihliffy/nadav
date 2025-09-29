@@ -3,6 +3,9 @@ id: 655b4dad1d38ff7cdd65cbfe
 title: Step 99
 challengeType: 0
 dashedName: step-99
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.019Z'
 ---
 
 # --description--

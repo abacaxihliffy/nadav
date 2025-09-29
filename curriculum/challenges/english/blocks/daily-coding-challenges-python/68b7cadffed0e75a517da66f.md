@@ -1,8 +1,11 @@
 ---
 id: 68b7cadffed0e75a517da66f
-title: "Challenge 50: Longest Word"
+title: 'Challenge 50: Longest Word'
 challengeType: 29
 dashedName: challenge-50
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.270Z'
 ---
 
 # --description--

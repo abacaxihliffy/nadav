@@ -3,6 +3,9 @@ id: 6824aace9bce174eb66caa0d
 title: Task 149
 challengeType: 19
 dashedName: task-149
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.497Z'
 ---
 
 <!-- READING -->

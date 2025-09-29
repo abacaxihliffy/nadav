@@ -3,6 +3,9 @@ id: 66bbba46fff0ef451b701bcd
 title: Task 103
 challengeType: 19
 dashedName: task-103
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:16.199Z'
 ---
 
 <!-- Audio Reference:

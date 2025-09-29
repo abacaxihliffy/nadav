@@ -1,8 +1,11 @@
 ---
 id: 657e47d5fa5dea7cbdaf484b
-title: "Dialogue 5: Meeting a Client"
+title: 'Dialogue 5: Meeting a Client'
 challengeType: 21
 dashedName: dialogue-meeting-a-client
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:21.658Z'
 ---
 
 # --description--

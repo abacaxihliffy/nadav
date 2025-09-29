@@ -3,6 +3,9 @@ id: 64475c0b61cddb6feaab4e2e
 title: Step 13
 challengeType: 0
 dashedName: step-13
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:22.532Z'
 ---
 
 # --description--

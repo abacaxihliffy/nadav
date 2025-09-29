@@ -3,6 +3,9 @@ id: 657ddcd61f516cacdc7a04ca
 title: Task 128
 challengeType: 19
 dashedName: task-128
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:14.045Z'
 ---
 
 <!-- (audio) Maria: The bookstores I remember are all downtown. There is a bus that stops two blocks away. -->

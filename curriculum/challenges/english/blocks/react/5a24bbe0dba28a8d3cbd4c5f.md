@@ -4,6 +4,9 @@ title: Render HTML Elements to the DOM
 challengeType: 6
 forumTopicId: 301406
 dashedName: render-html-elements-to-the-dom
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.104Z'
 ---
 
 # --description--

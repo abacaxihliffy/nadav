@@ -4,6 +4,9 @@ title: Build a Tribute Page
 challengeType: 14
 forumTopicId: 301147
 dashedName: build-a-tribute-page
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:04.756Z'
 ---
 
 # --description--

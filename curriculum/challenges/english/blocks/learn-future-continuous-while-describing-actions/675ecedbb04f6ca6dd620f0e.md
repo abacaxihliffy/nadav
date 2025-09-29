@@ -3,6 +3,9 @@ id: 675ecedbb04f6ca6dd620f0e
 title: Task 76
 challengeType: 22
 dashedName: task-76
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.229Z'
 ---
 
 <!-- (Audio) Anna: Hi Brian, I've heard about these Man-in-the-Middle attacks. -->

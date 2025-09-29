@@ -4,6 +4,9 @@ title: DNA Pairing
 challengeType: 1
 forumTopicId: 16009
 dashedName: dna-pairing
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.590Z'
 ---
 
 # --description--

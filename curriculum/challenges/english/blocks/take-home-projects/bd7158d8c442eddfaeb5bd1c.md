@@ -4,6 +4,9 @@ title: Build a Memory Light Game
 challengeType: 3
 forumTopicId: 302357
 dashedName: build-a-memory-light-game
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.273Z'
 ---
 
 # --description--

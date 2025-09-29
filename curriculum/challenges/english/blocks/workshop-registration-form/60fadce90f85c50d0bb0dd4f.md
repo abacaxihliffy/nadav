@@ -3,6 +3,9 @@ id: 60fadce90f85c50d0bb0dd4f
 title: Step 43
 challengeType: 0
 dashedName: step-43
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:27.973Z'
 ---
 
 # --description--

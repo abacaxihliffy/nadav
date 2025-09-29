@@ -4,6 +4,9 @@ title: Build a Pinterest Clone
 challengeType: 4
 forumTopicId: 302352
 dashedName: build-a-pinterest-clone
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.279Z'
 ---
 
 # --description--

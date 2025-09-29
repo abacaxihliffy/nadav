@@ -3,6 +3,9 @@ id: 62a8ad8e01d7cb0deae5ec66
 title: Step 57
 challengeType: 0
 dashedName: step-57
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.210Z'
 ---
 
 # --description--

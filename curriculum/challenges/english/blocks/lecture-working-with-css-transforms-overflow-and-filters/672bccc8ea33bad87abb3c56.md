@@ -3,6 +3,9 @@ id: 672bccc8ea33bad87abb3c56
 title: What Is the Difference Between content-box and border-box?
 challengeType: 19
 dashedName: what-is-the-difference-between-content-box-and-border-box
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.636Z'
 ---
 
 # --description--

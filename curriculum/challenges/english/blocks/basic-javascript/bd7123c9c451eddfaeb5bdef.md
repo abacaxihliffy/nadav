@@ -4,6 +4,9 @@ title: Use Bracket Notation to Find the Last Character in a String
 challengeType: 1
 forumTopicId: 18342
 dashedName: use-bracket-notation-to-find-the-last-character-in-a-string
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.907Z'
 ---
 
 # --description--

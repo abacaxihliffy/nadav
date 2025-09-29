@@ -3,6 +3,9 @@ id: 63eedebb0ec0231ff1cede1a
 title: Step 22
 challengeType: 0
 dashedName: step-22
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:28.089Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 67a9efcabf0dac0baa0ec536
 title: Task 4
 challengeType: 22
 dashedName: task-4
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.210Z'
 ---
 
 <!-- (Audio) Bob: It seems most people prefer using it for office furniture. -->

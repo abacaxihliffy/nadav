@@ -4,6 +4,9 @@ title: Nest one Array within Another Array
 challengeType: 1
 forumTopicId: 18247
 dashedName: nest-one-array-within-another-array
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.229Z'
 ---
 
 # --description--

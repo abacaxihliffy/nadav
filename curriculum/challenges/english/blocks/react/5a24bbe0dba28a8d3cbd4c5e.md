@@ -4,6 +4,9 @@ title: Add Comments in JSX
 challengeType: 6
 forumTopicId: 301376
 dashedName: add-comments-in-jsx
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.102Z'
 ---
 
 # --description--

@@ -4,6 +4,9 @@ title: Visualize Data with a Scatterplot Graph
 challengeType: 3
 forumTopicId: 301467
 dashedName: visualize-data-with-a-scatterplot-graph
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.284Z'
 ---
 
 # --description--

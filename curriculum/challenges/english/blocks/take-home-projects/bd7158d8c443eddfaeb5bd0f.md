@@ -4,6 +4,9 @@ title: Manage a Book Trading Club
 challengeType: 4
 forumTopicId: 302364
 dashedName: manage-a-book-trading-club
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.278Z'
 ---
 
 # --description--

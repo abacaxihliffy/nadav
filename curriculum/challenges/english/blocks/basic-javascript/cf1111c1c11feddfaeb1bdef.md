@@ -4,6 +4,9 @@ title: Iterate with JavaScript While Loops
 challengeType: 1
 forumTopicId: 18220
 dashedName: iterate-with-javascript-while-loops
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.037Z'
 ---
 
 # --description--

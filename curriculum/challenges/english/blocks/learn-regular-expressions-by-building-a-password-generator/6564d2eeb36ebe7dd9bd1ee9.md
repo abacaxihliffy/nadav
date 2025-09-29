@@ -3,6 +3,9 @@ id: 6564d2eeb36ebe7dd9bd1ee9
 title: Step 40
 challengeType: 20
 dashedName: step-40
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:22.474Z'
 ---
 
 # --description--

@@ -8,6 +8,9 @@ bilibiliIds:
   bvid: BV1bL4y1a7kJ
   cid: 409034113
 dashedName: understanding-sockets-and-creating-a-tcp-server
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.531Z'
 ---
 
 # --questions--

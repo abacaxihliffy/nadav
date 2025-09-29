@@ -3,6 +3,9 @@ id: 65f6f9e9cfbda7f9c04e8af7
 title: Task 41
 challengeType: 19
 dashedName: task-41
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.320Z'
 ---
 
 <!-- (Audio) Brian: Understood. We can investigate this together, and by the end of it, we should have a clearer picture of what's happening. -->

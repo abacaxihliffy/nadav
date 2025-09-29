@@ -4,6 +4,9 @@ title: Build a JavaScript Calculator
 challengeType: 3
 forumTopicId: 301371
 dashedName: build-a-javascript-calculator
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.447Z'
 ---
 
 # --description--

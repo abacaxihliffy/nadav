@@ -3,6 +3,9 @@ id: 67fe85a3db9bad35f2b6a2bd
 title: How Do Conditional Statements and Logical Operators Work?
 challengeType: 19
 dashedName: how-do-conditional-statements-and-logical-operators-work
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.351Z'
 ---
 
 # --description--

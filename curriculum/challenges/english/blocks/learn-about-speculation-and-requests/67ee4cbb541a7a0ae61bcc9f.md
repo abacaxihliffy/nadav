@@ -3,6 +3,9 @@ id: 67ee4cbb541a7a0ae61bcc9f
 title: Task 4
 challengeType: 19
 dashedName: task-4
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.226Z'
 ---
 
 <!-- (audio) Sophie: It's not a big deal, but we should fix it before it causes problems. -->

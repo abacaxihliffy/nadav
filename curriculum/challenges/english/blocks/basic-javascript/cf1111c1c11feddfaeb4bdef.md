@@ -4,6 +4,9 @@ title: Subtract One Number from Another with JavaScript
 challengeType: 1
 forumTopicId: 18314
 dashedName: subtract-one-number-from-another-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.101Z'
 ---
 
 # --description--

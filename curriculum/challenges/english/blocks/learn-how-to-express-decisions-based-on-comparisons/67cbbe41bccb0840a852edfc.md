@@ -3,6 +3,9 @@ id: 67cbbe41bccb0840a852edfc
 title: Task 44
 challengeType: 22
 dashedName: task-44
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.097Z'
 ---
 
 <!-- (audio) Sophie: That's good to know. I think I'll go with SafeGuard since security is our top priority, but I'll keep in mind the integration challenges. Thanks for your help, Jake. -->

@@ -3,6 +3,9 @@ id: 68555dfadef342c2db9b5abf
 title: Task 83
 challengeType: 22
 dashedName: task-83
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.720Z'
 ---
 
 <!-- (Audio) David: What about testing? The last update brought up some unexpected challenges. -->

@@ -3,6 +3,9 @@ id: 6482b4fef5fd6bcdfddad730
 title: Step 12
 challengeType: 0
 dashedName: step-12
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:21.437Z'
 ---
 
 # --description--

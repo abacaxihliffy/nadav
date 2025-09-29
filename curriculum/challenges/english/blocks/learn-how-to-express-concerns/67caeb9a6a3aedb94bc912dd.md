@@ -3,6 +3,9 @@ id: 67caeb9a6a3aedb94bc912dd
 title: Task 129
 challengeType: 22
 dashedName: task-129
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.024Z'
 ---
 
 <!-- (Audio) Maria: They also said the communication isn't great because they often don't hear about changes until it's too late. -->

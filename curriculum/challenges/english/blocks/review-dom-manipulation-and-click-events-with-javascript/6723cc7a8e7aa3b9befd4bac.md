@@ -3,6 +3,9 @@ id: 6723cc7a8e7aa3b9befd4bac
 title: DOM Manipulation and Click Events with JavaScript Review
 challengeType: 31
 dashedName: review-dom-manipulation-and-click-events-with-javascript
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.182Z'
 ---
 
 # --description--

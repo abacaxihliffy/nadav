@@ -4,6 +4,9 @@ title: Visualize Data with a Heat Map
 challengeType: 3
 forumTopicId: 301466
 dashedName: visualize-data-with-a-heat-map
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.285Z'
 ---
 
 # --description--

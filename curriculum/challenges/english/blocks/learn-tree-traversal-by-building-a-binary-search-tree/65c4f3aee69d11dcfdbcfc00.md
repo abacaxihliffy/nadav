@@ -3,6 +3,9 @@ id: 65c4f3aee69d11dcfdbcfc00
 title: Step 18
 challengeType: 20
 dashedName: step-18
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.104Z'
 ---
 
 # --description--

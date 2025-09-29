@@ -4,6 +4,9 @@ title: Chart the Stock Market
 challengeType: 4
 forumTopicId: 302363
 dashedName: chart-the-stock-market
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.277Z'
 ---
 
 # --description--

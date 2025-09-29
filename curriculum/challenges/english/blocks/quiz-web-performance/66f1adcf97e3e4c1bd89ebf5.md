@@ -3,6 +3,9 @@ id: 66f1adcf97e3e4c1bd89ebf5
 title: Web Performance Quiz
 challengeType: 8
 dashedName: quiz-web-performance
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.972Z'
 ---
 
 # --description--

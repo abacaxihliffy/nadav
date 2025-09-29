@@ -4,6 +4,9 @@ title: Babbage problem
 challengeType: 1
 forumTopicId: 302229
 dashedName: babbage-problem
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.537Z'
 ---
 
 # --description--

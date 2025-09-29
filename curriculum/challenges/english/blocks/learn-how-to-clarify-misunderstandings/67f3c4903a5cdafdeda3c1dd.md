@@ -3,6 +3,9 @@ id: 67f3c4903a5cdafdeda3c1dd
 title: Task 143
 challengeType: 22
 dashedName: task-143
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.959Z'
 ---
 
 <!-- REVIEW -->

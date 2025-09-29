@@ -3,6 +3,9 @@ id: 6821b0fc7feba25dfba3d6ae
 title: Task 105
 challengeType: 19
 dashedName: task-105
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.447Z'
 ---
 
 <!-- READING -->

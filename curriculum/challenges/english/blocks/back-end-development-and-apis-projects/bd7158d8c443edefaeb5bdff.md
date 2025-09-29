@@ -4,6 +4,9 @@ title: Request Header Parser Microservice
 challengeType: 4
 forumTopicId: 301507
 dashedName: request-header-parser-microservice
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:48:58.936Z'
 ---
 
 # --description--

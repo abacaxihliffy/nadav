@@ -3,6 +3,9 @@ id: 66cc1ccfefdd727e18c2ab20
 title: Step 14
 challengeType: 1
 dashedName: step-14
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:26.058Z'
 ---
 
 # --description--

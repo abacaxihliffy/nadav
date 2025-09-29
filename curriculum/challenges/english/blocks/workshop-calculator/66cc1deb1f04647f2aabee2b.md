@@ -3,6 +3,9 @@ id: 66cc1deb1f04647f2aabee2b
 title: Step 15
 challengeType: 1
 dashedName: step-15
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:26.059Z'
 ---
 
 # --description--

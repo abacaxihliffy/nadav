@@ -3,6 +3,9 @@ id: 678e0cbc0d01a2a5aea8dcec
 title: Task 47
 challengeType: 19
 dashedName: task-47
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.350Z'
 ---
 
 <!-- (audio) Jake: I prefer using Visual Studio Code because it's lightweight and has excellent security features. -->

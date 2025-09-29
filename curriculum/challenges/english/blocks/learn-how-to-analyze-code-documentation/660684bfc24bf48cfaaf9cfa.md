@@ -3,6 +3,9 @@ id: 660684bfc24bf48cfaaf9cfa
 title: Task 8
 challengeType: 22
 dashedName: task-8
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:14.945Z'
 ---
 
 <!-- (Audio) Sophie: Thanks, I'll give it a shot. -->

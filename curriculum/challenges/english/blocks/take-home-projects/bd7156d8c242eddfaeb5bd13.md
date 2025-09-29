@@ -4,6 +4,9 @@ title: Build a freeCodeCamp Forum Homepage
 challengeType: 3
 forumTopicId: 302349
 dashedName: build-a-freecodecamp-forum-homepage
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.269Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 657cbef9aa43ceba8af6feb4
 title: Task 51
 challengeType: 22
 dashedName: task-51
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.959Z'
 ---
 
 <!-- (audio) Sophie: "I think she has a passion for technology and enjoys leading our team." -->

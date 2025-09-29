@@ -3,6 +3,9 @@ id: 685118ddcad14fa5d62faaef
 title: Step 33
 challengeType: 20
 dashedName: step-33
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:27.382Z'
 ---
 
 # --description--

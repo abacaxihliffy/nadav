@@ -3,6 +3,9 @@ id: 66edcdd18a4ef8df16e6bb7e
 title: JavaScript Higher Order Functions Quiz
 challengeType: 8
 dashedName: quiz-javascript-higher-order-functions
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.945Z'
 ---
 
 # --description--

@@ -3,6 +3,9 @@ id: 65fc9c5db0a80e6e3d3cfce5
 title: Task 37
 challengeType: 22
 dashedName: task-37
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.579Z'
 ---
 
 <!-- (Audio) Brian: Yeah, wow. You know what? This was really a motivating talk. Thanks for sharing your thoughts. -->

@@ -4,6 +4,9 @@ title: Use Bracket Notation to Find the First Character in a String
 challengeType: 1
 forumTopicId: 18341
 dashedName: use-bracket-notation-to-find-the-first-character-in-a-string
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:07.971Z'
 ---
 
 # --description--

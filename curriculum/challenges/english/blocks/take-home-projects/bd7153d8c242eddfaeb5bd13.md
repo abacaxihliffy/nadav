@@ -4,6 +4,9 @@ title: Build a Roguelike Dungeon Crawler Game
 challengeType: 3
 forumTopicId: 302355
 dashedName: build-a-roguelike-dungeon-crawler-game
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.265Z'
 ---
 
 # --description--

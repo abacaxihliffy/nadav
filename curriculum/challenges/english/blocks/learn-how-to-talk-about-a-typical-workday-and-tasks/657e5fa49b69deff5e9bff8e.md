@@ -3,6 +3,9 @@ id: 657e5fa49b69deff5e9bff8e
 title: Task 105
 challengeType: 22
 dashedName: task-105
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.765Z'
 ---
 
 <!-- (audio) James: Absolutely. If you see any security breaches or incidents, you have to report them immediately. Reporting helps us address issues effectively. -->

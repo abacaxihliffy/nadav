@@ -3,6 +3,9 @@ id: 618a0b2befb143baefab632b
 title: Step 37
 challengeType: 0
 dashedName: step-37
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.840Z'
 ---
 
 # --description--

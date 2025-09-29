@@ -1,8 +1,11 @@
 ---
 id: 67d2f4ddb4a4306fdf5bbaee
-title: What Is Memoization, and How Does the useMemo Hook Work?
+title: 'What Is Memoization, and How Does the useMemo Hook Work?'
 challengeType: 19
 dashedName: what-is-memoization-and-how-does-the-usememo-hook-work
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.642Z'
 ---
 
 # --description--

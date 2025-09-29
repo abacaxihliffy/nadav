@@ -3,6 +3,9 @@ id: 68ad9821ee41baad9cb0fd4e
 title: Build a Symmetric Difference Function
 challengeType: 26
 dashedName: lab-symmetric-difference
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.786Z'
 ---
 
 # --description--

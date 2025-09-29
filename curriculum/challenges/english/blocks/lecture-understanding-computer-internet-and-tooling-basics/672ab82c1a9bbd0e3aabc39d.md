@@ -1,8 +1,13 @@
 ---
 id: 672ab82c1a9bbd0e3aabc39d
-title: How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices
+title: >-
+  How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing
+  Devices
 challengeType: 19
 dashedName: how-to-effectively-work-with-your-keyboard-mouse-and-other-pointing-devices
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.399Z'
 ---
 
 # --description--

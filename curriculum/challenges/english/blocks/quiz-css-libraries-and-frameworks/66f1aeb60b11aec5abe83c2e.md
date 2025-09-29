@@ -3,6 +3,9 @@ id: 66f1aeb60b11aec5abe83c2e
 title: CSS Libraries and Frameworks Quiz
 challengeType: 8
 dashedName: quiz-css-libraries-and-frameworks
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:24.912Z'
 ---
 
 # --description--

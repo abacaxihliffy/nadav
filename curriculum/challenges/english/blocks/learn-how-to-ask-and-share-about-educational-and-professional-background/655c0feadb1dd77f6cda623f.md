@@ -1,8 +1,11 @@
 ---
 id: 655c0feadb1dd77f6cda623f
-title: "Dialogue 1: A Job Interview"
+title: 'Dialogue 1: A Job Interview'
 challengeType: 21
 dashedName: dialogue-1-a-job-interview
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.430Z'
 ---
 
 # --description--

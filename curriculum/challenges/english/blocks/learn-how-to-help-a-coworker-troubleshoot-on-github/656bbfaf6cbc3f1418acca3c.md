@@ -3,6 +3,9 @@ id: 656bbfaf6cbc3f1418acca3c
 title: Task 6
 challengeType: 22
 dashedName: task-6
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.358Z'
 ---
 
 <!-- (Audio) Sarah: Sure, Bob. What's the problem? -->

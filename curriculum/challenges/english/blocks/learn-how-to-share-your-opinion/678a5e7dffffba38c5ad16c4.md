@@ -3,6 +3,9 @@ id: 678a5e7dffffba38c5ad16c4
 title: Task 17
 challengeType: 22
 dashedName: task-17
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.315Z'
 ---
 
 <!-- (audio) Linda: In my case, I prefer Python because it's great for data analysis. Plus, it's really good for building prototypes quickly. -->

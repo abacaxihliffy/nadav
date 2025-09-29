@@ -4,6 +4,9 @@ title: Iterate with JavaScript For Loops
 challengeType: 1
 forumTopicId: 18219
 dashedName: iterate-with-javascript-for-loops
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.168Z'
 ---
 
 # --description--

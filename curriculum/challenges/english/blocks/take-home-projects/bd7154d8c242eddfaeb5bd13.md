@@ -4,6 +4,9 @@ title: Build the Game of Life
 challengeType: 3
 forumTopicId: 302362
 dashedName: build-the-game-of-life
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.266Z'
 ---
 
 # --description--

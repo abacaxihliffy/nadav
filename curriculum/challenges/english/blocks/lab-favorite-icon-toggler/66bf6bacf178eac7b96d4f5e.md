@@ -4,6 +4,9 @@ title: Build a Favorite Icon Toggler
 challengeType: 25
 dashedName: build-a-favorite-icon-toggler
 demoType: onClick
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:11.692Z'
 ---
 
 # --description--

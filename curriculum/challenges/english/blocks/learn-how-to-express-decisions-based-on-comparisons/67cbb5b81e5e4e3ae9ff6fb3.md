@@ -3,6 +3,9 @@ id: 67cbb5b81e5e4e3ae9ff6fb3
 title: Task 42
 challengeType: 19
 dashedName: task-42
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:17.094Z'
 ---
 
 <!-- (audio) Jake: If integration is crucial, you might have to do some extra work with SafeGuard. -->

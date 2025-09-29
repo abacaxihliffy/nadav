@@ -3,6 +3,9 @@ id: 678e4878f7df13bbcdbcdee4
 title: Task 54
 challengeType: 22
 dashedName: task-54
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.357Z'
 ---
 
 <!-- (audio) Jake: It's customizable, which is useful for our different teams. -->

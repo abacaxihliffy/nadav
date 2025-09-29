@@ -3,6 +3,9 @@ id: 64aaf2aff7f1fc7a550f40cb
 title: Step 36
 challengeType: 0
 dashedName: step-36
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:21.460Z'
 ---
 
 # --description--

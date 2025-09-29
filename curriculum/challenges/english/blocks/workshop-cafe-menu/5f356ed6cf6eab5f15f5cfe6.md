@@ -3,6 +3,9 @@ id: 5f356ed6cf6eab5f15f5cfe6
 title: Step 20
 challengeType: 0
 dashedName: step-20
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:26.133Z'
 ---
 
 # --description--

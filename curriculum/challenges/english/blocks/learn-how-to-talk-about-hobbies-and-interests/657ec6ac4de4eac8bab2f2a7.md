@@ -3,6 +3,9 @@ id: 657ec6ac4de4eac8bab2f2a7
 title: Task 39
 challengeType: 22
 dashedName: task-39
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.837Z'
 ---
 
 <!-- (Audio) Linda: Ok, it's a bike date, then. -->

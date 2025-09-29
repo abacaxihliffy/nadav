@@ -3,6 +3,9 @@ id: 679d26afcebc4ea8a9478fbf
 title: Task 91
 challengeType: 19
 dashedName: task-91
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.595Z'
 ---
 
 <!-- (Audio) James: Absolutely. Do you think we need to update the software again? -->

@@ -3,6 +3,9 @@ id: 67f36533ffaeffe3ac2dad2b
 title: Task 131
 challengeType: 19
 dashedName: task-131
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.944Z'
 ---
 
 <!-- (Audio) Jessica: Oh, that might be a mix-up. The budget tracking feature is planned for the next update, not this one. -->

@@ -4,6 +4,9 @@ title: Map Data Across the Globe
 challengeType: 3
 forumTopicId: 302365
 dashedName: map-data-across-the-globe
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.263Z'
 ---
 
 # --description--

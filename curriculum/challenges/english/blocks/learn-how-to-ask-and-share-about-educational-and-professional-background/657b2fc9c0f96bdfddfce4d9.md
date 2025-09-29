@@ -3,6 +3,9 @@ id: 657b2fc9c0f96bdfddfce4d9
 title: Task 90
 challengeType: 22
 dashedName: task-90
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:15.507Z'
 ---
 
 <!-- (Audio) Anna: I took a course in organizational psychology, and it piqued my interest in the workplace and employee dynamics. -->

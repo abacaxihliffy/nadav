@@ -4,6 +4,9 @@ title: Generate Random Whole Numbers within a Range
 challengeType: 1
 forumTopicId: 18187
 dashedName: generate-random-whole-numbers-within-a-range
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:08.296Z'
 ---
 
 # --description--

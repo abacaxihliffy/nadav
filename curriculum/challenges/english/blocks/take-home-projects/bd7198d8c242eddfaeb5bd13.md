@@ -4,6 +4,9 @@ title: Show National Contiguity with a Force Directed Graph
 challengeType: 3
 forumTopicId: 302367
 dashedName: show-national-contiguity-with-a-force-directed-graph
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.284Z'
 ---
 
 # --description--

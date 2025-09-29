@@ -3,6 +3,9 @@ id: 67efdfa59ffafb1f2a56381e
 title: Task 55
 challengeType: 19
 dashedName: task-55
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.324Z'
 ---
 
 <!-- (audio) Jessica: Hey Jake, we had a security breach reported last night. I wanted to discuss what might have caused it. Do you have any ideas? -->

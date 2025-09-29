@@ -3,6 +3,9 @@ id: 67d83cac8f7ced9c5df81df9
 title: Task 144
 challengeType: 22
 dashedName: task-144
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.990Z'
 ---
 
 <!-- (audio) Lisa: This will help us understand the extent of the breach and what they might have taken. -->

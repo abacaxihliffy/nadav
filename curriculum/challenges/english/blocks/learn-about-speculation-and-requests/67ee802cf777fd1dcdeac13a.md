@@ -3,6 +3,9 @@ id: 67ee802cf777fd1dcdeac13a
 title: Task 19
 challengeType: 19
 dashedName: task-19
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:12.260Z'
 ---
 
 <!-- (audio) Sophie: No problem. You should also remember to use comments in your code. -->

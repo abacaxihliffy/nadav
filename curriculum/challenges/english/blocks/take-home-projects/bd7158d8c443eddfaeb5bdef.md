@@ -4,6 +4,9 @@ title: Build a Voting App
 challengeType: 4
 forumTopicId: 302359
 dashedName: build-a-voting-app
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:25.280Z'
 ---
 
 # --description--

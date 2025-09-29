@@ -3,6 +3,9 @@ id: 62aa27c40ca6f04ab8be5fac
 title: Step 167
 challengeType: 0
 dashedName: step-167
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:13.357Z'
 ---
 
 # --description--

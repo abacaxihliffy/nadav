@@ -3,6 +3,9 @@ id: 5f46ede1ff8fec5ba656b44c
 title: Step 78
 challengeType: 0
 dashedName: step-78
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:26.212Z'
 ---
 
 # --description--

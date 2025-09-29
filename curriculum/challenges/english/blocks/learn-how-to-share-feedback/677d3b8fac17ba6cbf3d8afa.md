@@ -3,6 +3,9 @@ id: 677d3b8fac17ba6cbf3d8afa
 title: Task 3
 challengeType: 22
 dashedName: task-3
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:18.489Z'
 ---
 
 <!-- (Audio) Bob: I want to start by saying that you've done a great job with your QA work. -->

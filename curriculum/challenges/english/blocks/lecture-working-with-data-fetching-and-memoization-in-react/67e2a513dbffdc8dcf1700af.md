@@ -1,8 +1,11 @@
 ---
 id: 67e2a513dbffdc8dcf1700af
-title: What Is the useOptimistic Hook, and How Does It Work?
+title: 'What Is the useOptimistic Hook, and How Does It Work?'
 challengeType: 19
 dashedName: what-is-the-useoptimistic-hook-and-how-does-it-work
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:23.644Z'
 ---
 
 # --description--

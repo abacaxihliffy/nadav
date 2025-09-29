@@ -3,6 +3,9 @@ id: 67d3fccf15badf0cae314d1c
 title: Task 7
 challengeType: 22
 dashedName: task-7
+lang: pt-BR
+translated: true
+updatedAt: '2025-09-29T05:49:20.843Z'
 ---
 
 <!-- (Audio) Mark: Sure, Jessica. What do I need to do? -->
