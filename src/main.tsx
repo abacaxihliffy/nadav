@@ -1,7 +1,7 @@
 // src/main.tsx
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import App from "./App";
 import "./index.css"; // Tailwind v4 entra por aqui (@import "tailwindcss")
 
@@ -22,9 +22,9 @@ if (!window.__dc_root_mounted) {
   window.__dc_root_mounted = true;
 
   ReactDOM.createRoot(rootEl).render(
-    <BrowserRouter>
+    <HashRouter>
       <App />
-    </BrowserRouter>
+    </HashRouter>
   );
 } else {
   console.warn("DevCodeHub: tentativa de segunda montagem bloqueada.");
